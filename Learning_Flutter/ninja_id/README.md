@@ -28,6 +28,6 @@
 
 ## Author
 
-- Application - [Ambe Mbong-Nwi Nchang](https://github.com/Ambe-Mbong-Nwi/Flutter-Projects.git)
+- Application GitHub Link- [Ambe Mbong-Nwi Nchang](https://github.com/Ambe-Mbong-Nwi/Flutter-Projects.git)
 
 
