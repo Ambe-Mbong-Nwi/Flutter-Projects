@@ -19,6 +19,7 @@
 ## What I learned
 
 - How to consume an API
+- How to navigate between two pages
 
 ## Author
 
