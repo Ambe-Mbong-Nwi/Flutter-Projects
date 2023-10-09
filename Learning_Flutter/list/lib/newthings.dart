@@ -10,6 +10,7 @@ class Newthing {
 
 
   //Using named parameters. Add {} to the constructor
+  //named paras meaning when calling, use text: "hello", author: "moi".
 // Newthing({required String text, required String author}){       //constructor method used to create and initialise objects of a class.
 //     this.text = text;                 //taking and displaying parameters from object for this instance.
 //     this.author = author;
@@ -17,7 +18,7 @@ class Newthing {
 // }
 
 
-//  SHORTFORM FOR USING NAMED PARAMETERS.
+//  SHORTFORM FOR USING NAMED PARAMETERS. no need for coonstructor.
 Newthing({ required this.text, required this.author });
 }
 

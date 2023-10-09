@@ -60,7 +60,7 @@ List<Newthing> newthings = [              //list takes the newthing class as its
         ),
         body: Column(
 
-          children: newthings.map((newthing) => NewthingCard(
+          children: newthings.map((newthing) => NewthingCard(   //for every newthing in the newthings list, display using the NewthingCard widget.
             newthing: newthing,
             delete: () {                  //defining the delete func which will be passed as a parameter to the stles card widget class.
               setState(() {

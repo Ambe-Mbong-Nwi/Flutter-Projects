@@ -25,7 +25,7 @@ void main() {
     //   body: const Padding(
     //     padding: EdgeInsets.fromLTRB(30, 40.0, 30, 10.0),
     //     child: Column(
-    //       crossAxisAlignment: CrossAxisAlignment.start,
+    //       crossAxisAlignment: CrossAxisAlignment.start, //align all content to the start. 
     //       children: const <Widget>[
     //         Center(
     //           child: CircleAvatar(           //so avatar is in a circled box
