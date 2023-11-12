@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85493559348",
+    "project_id": "camnes-236a4",
+    "storage_bucket": "camnes-236a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85493559348:android:8b1dee1a4f0fdae93a5a61",
+        "android_client_info": {
+          "package_name": "com.ets.camnes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxuyu5uFu1h2cxLjdWwRABGhws_32jxmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
